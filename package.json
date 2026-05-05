@@ -1,0 +1,13 @@
+{
+  "name": "3-projeto01-simulador-de-corrida-do-mario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lore",
+  "license": "ISC",
+  "type": "commonjs"
+}
